@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2020-08-11T16:33:01.491Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2020-08-11T16:34:29.332Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2020-08-11T16:34:30.262Z
-Crystal_Cavern.exe	2020-09-15T12:08:42.878Z
+Crystal_Cavern.exe	2020-09-15T16:13:26.129Z
