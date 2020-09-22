@@ -1,6 +1,6 @@
 # Crystal_Cavern
 
-- The demonstration film is coming soon.
+The demonstration film: https://www.youtube.com/watch?v=Tl74fkfo2ag&ab_channel=JakubMichalewicz
 
 A game designed to learn Blueprint programming. The assumptions of the game are very simple:
 We are a ball of water that accelerates thanks to torque. The player controls the WASD keys and has to collect all the crystals and get to the finish line.
