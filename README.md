@@ -9,4 +9,3 @@ The player may fall off the map causing the level to restart or be shot down by 
 The game will finally be included in one joint project called Mars Marine.
 Developed with Unreal Engine 4 and Blueprint.
 
-The version of the game from the demo video is available to play in the Crystal_Cavern exe folder.
