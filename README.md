@@ -1,6 +1,6 @@
 # Crystal_Cavern
 
-- The demonstration film is coming soon.
+The demonstration film: https://www.youtube.com/watch?v=Tl74fkfo2ag&ab_channel=JakubMichalewicz
 
 A game designed to learn Blueprint programming. The assumptions of the game are very simple:
 We are a ball of water that accelerates thanks to torque. The player controls the WASD keys and has to collect all the crystals and get to the finish line.
@@ -8,3 +8,5 @@ The player may fall off the map causing the level to restart or be shot down by 
 
 The game will finally be included in one joint project called Mars Marine.
 Developed with Unreal Engine 4 and Blueprint.
+
+The version of the game from the demo video is available to play in the Crystal_Cavern exe folder.
